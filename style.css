@@ -1,0 +1,60 @@
+body {
+    font-family: 'Pattaya', sans-serif;
+}
+
+.header_div {
+    color: rgb(24, 109, 236);
+    background-color: aquamarine;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background-color: darkcyan;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+
+}
+
+.main_div label {
+    background-color: violet;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+    font-size: 25px;
+}
+
+#camera,#result {
+    border: 3px solid white;
+    width: 350px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+.main_div button{
+    width: 300px;
+    font-size: 20px;
+    border: 1px solid;
+    box-shadow: 5px 5px 18px whitesmoke;
+    margin-top: 10px;
+}
+.result_div img{
+width: 70px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    color: darkmagenta;
+    background-color: darkturquoise;
+    text-align: center;
+    width: 100%;
+}
+.result_div h4{
+    box-shadow: 5px 5px 18px fuchsia;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 25px;
+}
